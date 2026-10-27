@@ -29,15 +29,6 @@
 
   <!-------------------- HEADER SECTION END -------------------->
 
-<img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf hasan jahid web developer" border="0">
-<h3 align="center">I build modern, responsive websites focused on quality, performance, and your business goals—delivering reliable solutions with attention to every detail.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20views&color=0e75b6&style=flat" alt="jahidashraf342" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidashraf342" alt="jahidashraf342" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jahidashraf342" target="blank"><img src="https://img.shields.io/twitter/follow/jahidashraf342?logo=twitter&style=for-the-badge" alt="jahidashraf342" /></a> </p>
-
 - 🔭 I’m currently working on **Building modern, responsive websites and WordPress solutions for business needs.**
 
 - 🌱 I’m currently learning **Advanced CSS, JavaScript, PHP, and full-stack development.**
@@ -77,31 +68,29 @@
 
 
 
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" title="Learn HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="Learn CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" title="Learn JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/bootstrap5/" target="_blank" title="Learn Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/php/" target="_blank" title="Learn PHP">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/mysql/" target="_blank" title="Learn MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
-  </a>
-  <a href="https://help.figma.com/hc/en-us/sections/30880632542743-Figma-Design-for-beginners" target="_blank" title="Learn Figma">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
-  </a>
-  <a href="https://www.adobe.com/learn/photoshop" target="_blank" title="Learn Photoshop">
-    <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="45" height="45"/>
-  </a>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=jahidashraf342&theme=midnight"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://ghstats.dev/api/card?username=jahidashraf342&theme=midnight&layout=compact"
+    alt="GitHub Languages and Statistics"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/mini?username=jahidashraf342&style=for-the-badge"
+    alt="GitHub Activity"
+  />
+</p>
+
 </p>
 
 
