@@ -9,7 +9,7 @@
 
 <!-- Animated Typewriter Heading Start -->
 
-  <br />
+  <br />  <br /> <hr />
 
   <a href="https://github.com/jahidashraf342">
     <img
@@ -50,3 +50,32 @@
     <!-- Contact Badges End -->
 
 </div>
+
+
+
+
+
+<div align="center">
+
+  <img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid — Web Developer" width="100%" />
+
+  <h1>Ashraf Hasan Jahid</h1>
+
+  <h3>Building Modern Websites. Growing Beyond the Code.</h3>
+
+  <p>
+    Web Development · WordPress · UI-Focused Websites · Future Full-Stack Development
+  </p>
+
+  <p>
+    <a href="https://github.com/jahidashraf342">
+      <img src="https://img.shields.io/badge/GitHub-jahidashraf342-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:hello.jahidashraf@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+---
