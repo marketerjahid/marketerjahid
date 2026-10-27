@@ -3,9 +3,7 @@
 
 <div align="center">
 
-  <img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid - Web Developer" width="100%" />
-
-  <hr />
+  <img margin-bottom="30" src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid - Web Developer" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=60&lines=Looking+for+an+expert+developer;you+are+on+the+right+place." alt="Looking for an expert developer | you are on the right place." />
 
