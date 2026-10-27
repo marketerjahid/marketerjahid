@@ -1,15 +1,13 @@
 <!-------------------- HEADER SECTION START -------------------->
 <div align="center">
 
- <!-- Banner Image Start -->
+ <!-- Banner Image -->
  
   <img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid — Web Developer" width="100%" />
 
-  <!-- Banner Image End -->
-
 <!-- Animated Typewriter Heading Start -->
 
-  <br />  <br /> <hr />
+  <br />
 
   <a href="https://github.com/jahidashraf342">
     <img
@@ -18,7 +16,7 @@
     />
   </a>
 
-  <!-- Animated Typewriter Heading End -->
+   <br /> <hr />
 
   <!-- Professional Headline Start-->
   
@@ -51,31 +49,3 @@
 
 </div>
 
-
-
-
-
-<div align="center">
-
-  <img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid — Web Developer" width="100%" />
-
-  <h1>Ashraf Hasan Jahid</h1>
-
-  <h3>Building Modern Websites. Growing Beyond the Code.</h3>
-
-  <p>
-    Web Development · WordPress · UI-Focused Websites · Future Full-Stack Development
-  </p>
-
-  <p>
-    <a href="https://github.com/jahidashraf342">
-      <img src="https://img.shields.io/badge/GitHub-jahidashraf342-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-    </a>
-    <a href="mailto:hello.jahidashraf@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
-
----
