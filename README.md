@@ -7,7 +7,7 @@
 
 <!-- Animated Typewriter Heading Start -->
 
-  <br /> 
+  <br /> <br />
 
   <a href="https://github.com/jahidashraf342">
     <img
@@ -15,7 +15,6 @@
       alt="Looking for an expert developer | you are on the right place."
     />
   </a>
-
    <hr />
 
   <!-- Professional Headline Start-->
@@ -25,8 +24,6 @@
   </h3>
 
   <br />
-
-    <!-- Professional Headline End -->
 
     <!-- Contact Badges Start -->
 
