@@ -138,10 +138,8 @@
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
   </a>
   &nbsp;
-  <a href="https://elementor.com/academy/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/elementor/92003B"
-       alt="Elementor" width="48" height="48" />
- </a>
+ <img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg"
+     alt="Elementor" width="48" height="48" />
   &nbsp;
   <a href="https://learn.wordpress.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
