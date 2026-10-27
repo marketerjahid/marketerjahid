@@ -13,8 +13,6 @@
     I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail—I will provide you with a reliable solution.
   </h3>
 
-  <hr />
-
   <p align="center">
     <a href="https://github.com/jahidashraf342">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
