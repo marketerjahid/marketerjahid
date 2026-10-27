@@ -66,3 +66,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidashraf342&show_icons=true&locale=en" alt="jahidashraf342" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidashraf342&" alt="jahidashraf342" /></p>
+
+
+
+
+
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,wordpress,elementor" />
+</p>
+
+### 💻 Programming & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,php,mysql" />
+</p>
+
+### 🔐 Cybersecurity & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
+</p>
