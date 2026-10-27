@@ -72,19 +72,34 @@
 
 
 
-## 🛠️ Skills & Technologies
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,wordpress,elementor" />
-</p>
 
-### 💻 Programming & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,php,mysql" />
-</p>
 
-### 🔐 Cybersecurity & Tools
+<h3 align="left">🛠️ Skills & Technologies </h3>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
+  <a href="https://www.w3schools.com/html/" target="_blank" title="Learn HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" title="Learn CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank" title="Learn JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/bootstrap5/" target="_blank" title="Learn Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/php/" target="_blank" title="Learn PHP">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/mysql/" target="_blank" title="Learn MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://help.figma.com/hc/en-us/sections/30880632542743-Figma-Design-for-beginners" target="_blank" title="Learn Figma">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
+  </a>
+  <a href="https://www.adobe.com/learn/photoshop" target="_blank" title="Learn Photoshop">
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="45" height="45"/>
+  </a>
 </p>
