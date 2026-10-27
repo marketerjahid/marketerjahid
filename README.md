@@ -9,9 +9,9 @@
 
    <hr />
 
-  <h1 align="center">
+  <h3 align="center">
     I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail—I will provide you with a reliable solution.
-  </h1> 
+  </h3> 
 
 <p align="center">
   <a href="https://linkedin.com/in/jahidashraf342" target="_blank">
