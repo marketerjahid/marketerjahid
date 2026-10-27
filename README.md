@@ -7,7 +7,7 @@
 
 <!-- Animated Typewriter Heading Start -->
 
-  <br />
+  <br /> <br />
 
   <a href="https://github.com/jahidashraf342">
     <img
@@ -16,7 +16,7 @@
     />
   </a>
 
-   <br /> <hr />
+   <hr />
 
   <!-- Professional Headline Start-->
   
