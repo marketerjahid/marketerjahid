@@ -143,3 +143,29 @@
   </a>
 </p>
 
+
+
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jahidashraf342&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Real GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidashraf342&layout=compact&theme=github_dark&hide_border=true"
+    alt="Languages Used in Repositories"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jahidashraf342&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
