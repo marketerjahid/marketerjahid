@@ -13,25 +13,6 @@
     I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail—I will provide you with a reliable solution.
   </h3> <br />
 
-  <p align="center">
-    <a href="https://github.com/jahidashraf342">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://wa.me/8801601224060">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="mailto:hello.jahidashraf@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
-
-
-
-
-
-
 <p align="center">
   <a href="https://linkedin.com/in/jahidashraf342" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,6 +25,7 @@
   </a>
 </p>
 
+</div>
 
   <!-------------------- HEADER SECTION END -------------------->
 
