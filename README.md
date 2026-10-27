@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf hasan jahid web developer" border="0" border-radius="20px">
+<img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf hasan jahid web developer" border="3px" border-radius="20px">
 <h3 align="center" style=" color: Blue;">I build modern, responsive websites focused on quality, performance, and your business goals—delivering reliable solutions with attention to every detail.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20views&color=0e75b6&style=flat" alt="jahidashraf342" /> </p>
