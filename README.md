@@ -103,3 +103,55 @@
     <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="45" height="45"/>
   </a>
 </p>
+
+
+
+
+
+
+
+
+## 🛠️ Skills
+
+<p align="center">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/bootstrap5/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/php/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://elementor.com/academy/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=elementor" alt="Elementor" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://learn.wordpress.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://help.figma.com/hc/en-us/categories/360002051613-Learn-design" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="48" height="48" />
+  </a>
+</p>
+
