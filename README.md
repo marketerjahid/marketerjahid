@@ -1,9 +1,56 @@
-<img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf hasan jahid web developer" border="0">
-<h3 align="center">I build modern, responsive websites focused on quality, performance, and your business goals—delivering reliable solutions with attention to every detail.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20views&color=0e75b6&style=flat" alt="jahidashraf342" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidashraf342" alt="jahidashraf342" /></a> </p>
+  <!-- Existing Banner -->
+  <img
+    src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg"
+    alt="Ashraf Hasan Jahid - Web Developer"
+    width="100%"
+  />
+
+  <!-- Animated Typewriter Heading -->
+  <br />
+
+  <a href="https://github.com/jahidashraf342">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=60&lines=Looking+for+an+expert+developer;you+are+on+the+right+place."
+      alt="Looking for an expert developer | you are on the right place."
+    />
+  </a>
+
+  <!-- Professional Headline -->
+  <h3 align="center">
+    I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail—I will provide you with a reliable solution.
+  </h3>
+
+  <br />
+
+  <!-- Contact Badges -->
+  <p align="center">
+
+    <a href="https://github.com/jahidashraf342">
+      <img
+        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+      />
+    </a>
+    <a href="https://wa.me/8801601224060">
+      <img
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="WhatsApp"
+      />
+    </a>
+    <a href="mailto:hello.jahidashraf@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </a>
+
+  </p>
+
+</div>
+
 
 <p align="left"> <a href="https://twitter.com/jahidashraf342" target="blank"><img src="https://img.shields.io/twitter/follow/jahidashraf342?logo=twitter&style=for-the-badge" alt="jahidashraf342" /></a> </p>
 
