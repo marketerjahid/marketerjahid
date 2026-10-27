@@ -29,8 +29,6 @@
 
   <!-------------------- HEADER SECTION END -------------------->
 
-<hr />
-
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p>
